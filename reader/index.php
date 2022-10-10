@@ -103,7 +103,7 @@
                 <div id="fileUpload" class="getFile">
                     <span class="num">1</span>
                     <h4>
-                        Upload from local23:</h4>
+                        Upload from local256:</h4>
                     <input type="file" id="fileToUpload" onchange="fileSelected();" />
                     <input type="text" readonly="readonly" id="filename" />
                     <input type="button" />
