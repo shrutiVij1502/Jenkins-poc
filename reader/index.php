@@ -97,7 +97,7 @@
     <div id="wrapper">
         <div id="dbr-php">
             <h1>
-                Dynamsoft Barcode Reader PHP DEMO123</h1>
+                Dynamsoft Barcode Reader PHP </h1>
             <!--<form action="">-->               
             <div class="step step1">                
                 <div id="fileUpload" class="getFile">
